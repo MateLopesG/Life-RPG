@@ -10,7 +10,7 @@ The Life Rpg is an app/game that allow you to insert your own quests;
 Theses quests are real life things like "clean the house" or "go to the supermarket";
 You complete the quests to win XP to level up and improve your character;
 Then you fight enemys in a turn based RPG;
-Someday this will be a great tool to help procrastinators like me;
+Someday this will be a great tool to help me stop procrastinating;
 
 // changelog;
 
