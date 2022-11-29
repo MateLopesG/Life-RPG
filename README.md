@@ -1,4 +1,4 @@
-Hello world!;
+Hello world;
 
 This is a personal project i'm currently using to develop my coding skills;
 Feel free to review the code and suggest new features;
